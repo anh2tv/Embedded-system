@@ -1,1 +1,1 @@
-Include 11 lecture about Embedded system
+Include 11 lectures about Embedded system
