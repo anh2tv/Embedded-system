@@ -1,7 +1,8 @@
 # Embeeded system
  Understanding Embedded Device Raspberry Pi 
-  >Introducing Embedded Linux Systems
-  >IoT Devices
+  >Introducing Embedded Linux Systems.
+  
+  >IoT Devices.
   Getting started with Linux on the Pi
   Setting up your Pi
   Constructing PHP web server on your Pi
