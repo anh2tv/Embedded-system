@@ -1,5 +1,5 @@
 # Embeeded system
- Understanding Embedded Device Raspberry Pi 
+ Understanding Embedded Device Raspberry Pi \n
   Introducing Embedded Linux Systems
   IoT Devices
   Getting started with Linux on the Pi
